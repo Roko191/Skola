@@ -31,6 +31,7 @@
     <li> Vinograd kod Belišća, Žminj u Istri, autokamp Glavotok na otoku krku, autokamp Bijar na otoku Cresu, Gorčica kod Siska i drugi...</li>
     <li> Za piće u rijetkim slučajevima jer zahtjeva ekonomska ulaganja, najčešće korištene za navodnjavanje i  zalijevanje javnih površina, čišćenje ulica, sustavi za zaštitu od požara, za pranje automobila u poljiprivredi za navodnjavanje i zalijevanje u staklenicima i u akvakulturi, a u industijin  za proizvodnju, rashladna voda i voda za ispiranje, a određenu važnost ima i u reakciji i zaštita okoliša. </li>
 </ol>
+
 ## Ekoremedijcija
 
 <ol>
